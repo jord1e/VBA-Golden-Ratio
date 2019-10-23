@@ -4,7 +4,7 @@ Excel equidistant background coloring using the golden ratio and VBA.
 ![Macro Output](./vba_golden_ratio_result.png)
 
 ## Usage
-To use this file, call the `ColorUniqueCellsUsingGoldenRatio` subroutine with a [`Range`](https://docs.microsoft.com/en-us/office/vba/api/Excel.Range(object)) argument.
+To use this macro, call the `ColorUniqueCellsUsingGoldenRatio` subroutine with a [`Range`](https://docs.microsoft.com/en-us/office/vba/api/Excel.Range(object)) argument.
 
 ```vba
 Dim selection As range
